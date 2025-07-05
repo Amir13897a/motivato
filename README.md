@@ -1,6 +1,6 @@
 # Motivato_app
 
-A new Flutter project.
+Quickly learn how to setup a an quotes motivation app using Flutter for app state management.
 
 ## Getting Started
 
