@@ -11,11 +11,11 @@
 
 ### 🖼️ نمای اول
 
-![نمای اول](assets/images/Dribbble shot - 1.png)
+![نمای اول](assets/images/1.png)
 
 ### 🖼️ نمای دوم
 
-![نمای دوم](assets/images/Frame 2.png)
+![نمای دوم](assets/images/2.png)
 
 ---
 
