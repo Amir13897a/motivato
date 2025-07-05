@@ -1,4 +1,4 @@
-# test_app
+# Motivato_app
 
 A new Flutter project.
 
