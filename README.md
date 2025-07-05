@@ -1,16 +1,39 @@
 # Motivato_app
+ 
+این پروژه با عشق ❤️ و تلاش زیاد ساخته شده تا تجربه‌ای عالی به کاربر ارائه بده.  
+در این پروژه از تکنولوژی‌های مدرن استفاده شده تا بهترین عملکرد رو داشته باشه. 🚀
 
-Quickly learn how to setup a an quotes motivation app using Flutter for app state management.
+---
 
-## Getting Started
+## 📷 تصاویر
 
-This project is a starting point for a Flutter application.
+در ادامه می‌تونی چند تصویر از محیط برنامه رو ببینی:
 
-A few resources to get you started if this is your first Flutter project:
+### 🖼️ نمای اول
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![نمای اول](assets/images/Dribbble shot - 1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🖼️ نمای دوم
+
+![نمای دوم](assets/images/Frame 2.png)
+
+---
+
+## 🛠️ تکنولوژی‌های استفاده‌شده
+
+- Flutter / Dart 🐦
+- Firebase 🔥
+- GitHub 💻
+- و ...
+
+---
+
+## 📞 ارتباط با من
+
+اگه سوال یا پیشنهادی داری، خوشحال می‌شم باهام در تماس باشی! 😊  
+[ایمیل من](mailto:example@email.com)
+
+---
+
+> با سپاس از وقتی که گذاشتی! 🌟  
+> ستاره ⭐ دادن به پروژه فراموشت نشه 😄
